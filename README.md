@@ -31,7 +31,7 @@ Faculty:
 
 5.Faculty's approval and report can be reflected on students dashboard.
 
-Plagiarism and copy check
+Plagiarism and copy check:
 
 1.Files uploaded by the student can be checked for plagiarism using oaps or any search engine api.
 
@@ -39,3 +39,6 @@ Plagiarism and copy check
 
 3.Plagiarism and copy report are generated as pdf and can be viewed by faculty.
 
+Languages Used:
+
+PHP,HTML,CSS,jQuery,AJAX,JSON,LESS,Sqlite
